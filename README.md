@@ -1,7 +1,7 @@
 # <Week-1-Horiseon>
 
 ## Link
-https://nikitaaa95.github.io/Week-1-Horiseon/
+https://nikitaaa95.github.io/Horiseon-Develop-Accessibility/
 
 ## Description
 
